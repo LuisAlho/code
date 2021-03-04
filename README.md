@@ -3,7 +3,13 @@
 >
 > ### Golang
 >
-> - **Fizz Buzz**
-> - **Rest API**
+> 1. **Fizz Buzz**
+> 2. **Rest API**
 >   - Routing
 >   - Authentication
+>   
+
+### Java
+1. **Rest API**
+  - Routing
+  - Authentication
