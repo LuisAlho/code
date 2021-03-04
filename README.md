@@ -1,2 +1,4 @@
-# code
-My random stuff
+# Code
+## Golang
+ - Fizz Buzz
+ - Rest API
